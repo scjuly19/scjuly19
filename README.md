@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **any good project**
 
 - 👨‍💻 All of my projects are available at [https://scjuly19.github.io/folio](https://scjuly19.github.io/folio)
-- 📖 Read all my blogs at [https://sakshichaudhary.hashnode.dev/] hashnode
+- 📖 Read all my blogs at [https://sakshichaudhary.hashnode.dev/](hashnode)
 
 - 💬 Ask me about **ReactJS,Redux,JavaScript,HTML,CSS,Bootstrap**
 
